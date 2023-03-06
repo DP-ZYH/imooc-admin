@@ -21,6 +21,8 @@ messages:{
   footer:'请输入要关闭的issue（可选）',
   confirmCommit:'确认要使用以上信息提交？（y/n）'
 },
+// 跳过步骤
+skipQuestions:['body','footer'],
 //默认长度为72
 subjectLimit:72
   }
